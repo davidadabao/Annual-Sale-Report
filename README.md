@@ -1,10 +1,12 @@
-# Annual-Sale-Report
+# Annual Sale Report
 
 The Annual Sales Report Data Analysis project aims to provide comprehensive insights into the sales performance of a company over the past year. By leveraging advanced data analysis techniques, the project seeks to extract valuable information from sales data, enabling stakeholders to make informed decisions and strategize for future growth.
 
-## Key objectives of the project include:
+## Data Preview
+![preview](https://github.com/davidadabao/Annual-Sale-Report/blob/main/Dashboard%20Preview.JPG)
 
-### Exploratory Data Analysis (EDA)
+## Key objectives of the project:
+
 #### Data Compilation:
 Gathering sales data to create a consolidated dataset. This dataset will encompass sales figures, product categories, customer demographics, geographic regions, and sales channels.
 
